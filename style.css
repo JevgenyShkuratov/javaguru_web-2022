@@ -1,0 +1,13 @@
+
+
+svg:hover {
+    background-color: green;
+    stroke-width: 1px;
+}
+
+svg path:hover{
+    border: solid 1px;
+    stroke: rebeccapurple;
+    fill: black;
+    opacity: 1;
+}
