@@ -6,7 +6,6 @@ svg:hover {
 }
 
 svg path:hover{
-    
     border: solid 1px;
     stroke: rebeccapurple;
     fill: black;
